@@ -425,3 +425,13 @@ td,
 th {
     padding: 0;
 }
+
+body {
+    background: url("../images/bg.jpg") no-repeat right top;
+    background-size: cover;
+}
+
+h1  {
+    color: white;
+
+}
